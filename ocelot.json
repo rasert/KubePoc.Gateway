@@ -6,7 +6,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "kubepoc-api",
-          "Port": 80
+          "Port": 8080
         }
       ],
       "UpstreamPathTemplate": "/{everything}",
